@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 存档与导出（这些是个人/团队数据，不入库）
+*.json
+*.csv
+*.png
